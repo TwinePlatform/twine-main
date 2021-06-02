@@ -21,7 +21,7 @@
   "dependencies": {
     "@types/node": "^11.13.2",
     "@types/ramda": "^0.26.19",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "moment": "^2.24.0",
     "ramda": "^0.26.1",
     "random-words": "^1.1.0",
