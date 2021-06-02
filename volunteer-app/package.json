@@ -3,7 +3,7 @@
   "version": "1.5.7",
   "description": "Volunteer app for the Twine Platform",
   "dependencies": {
-    "angular": "^1.4.3",
+    "angular": "^1.8.0",
     "cordova-android": "7.0.0",
     "cordova-browser": "5.0.4",
     "cordova-ios": "4.4.0",
