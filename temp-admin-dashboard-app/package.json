@@ -13,7 +13,7 @@
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "express-sslify": "^1.2.0",
-    "fast-csv": "^2.4.1",
+    "fast-csv": "^4.3.6",
     "file-saver": "^2.0.0-rc.4",
     "hsts": "^2.2.0",
     "http-proxy-middleware": "^1.0.6",
