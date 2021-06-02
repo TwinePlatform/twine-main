@@ -99,7 +99,7 @@
     "hapi-auth-bearer-token": "^6.2.1",
     "hapi-pino": "^8.0.1",
     "ioredis": "4.14.0",
-    "knex": "^0.16.5",
+    "knex": "^0.19.5",
     "moment": "^2.24.0",
     "neat-csv": "^5.2.0",
     "pdfmake": "0.1.53",
